@@ -1,0 +1,29 @@
+# popupMenu.mnu Jmol version 14.3.3_2014.08.01  2014-08-01 07:38
+
+# Part I -- Menu Structure
+# ------------------------
+
+@COLOR = black white red orange yellow green cyan blue indigo violet
+@AXESCOLOR = gray salmon maroon olive slateblue gold orchid
+popupMenu = aboutMenu
+aboutMenu | About... = jmolMenu systemMenu
+jmolMenu | Jmol = APPLETid version date - jmolorg
+systemMenu | System = os javaVender javaVersion JAVAprocessors JAVAmemMax JAVAmemTotal
+
+
+# Part II -- Key Definitions
+# --------------------------
+
+jmolorg | http://www.jmol.org = show url "http://www.jmol.org"
+
+# Part III -- Word Translations
+# -----------------------------
+
+version | 14.3.3_2014.08.01
+date | 2014-08-01 07:38
+os | Windows 7
+JAVAmemTotal | ?
+JAVAmemMax | ?
+JAVAprocessors | ?
+javaVender | Java: Oracle Corporation
+javaVersion | Java 1.7.0_67

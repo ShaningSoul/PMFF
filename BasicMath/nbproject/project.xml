@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.bmdrc.basicmath</code-name-base>
+            <suite-component/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>org.bmdrc.ui</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.0</specification-version>
+                    </run-dependency>
+                </dependency>
+            </module-dependencies>
+            <public-packages>
+                <package>org.bmdrc.basicmath.function.interfaces</package>
+                <package>org.bmdrc.basicmath.linearfunction.abstracts</package>
+                <package>org.bmdrc.basicmath.matrix</package>
+                <package>org.bmdrc.basicmath.matrix.interfaces</package>
+                <package>org.bmdrc.basicmath.variable</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/cdk-1.4.19.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/cdk-1.4.19.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

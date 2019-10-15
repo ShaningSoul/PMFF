@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.bmdrc.cuda
+OpenIDE-Module-Localizing-Bundle: org/bmdrc/cuda/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

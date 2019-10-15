@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.bmdrc.basicmath
+OpenIDE-Module-Implementation-Version: 1
+OpenIDE-Module-Localizing-Bundle: org/bmdrc/basicmath/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
