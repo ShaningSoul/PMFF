@@ -1,9 +1,7 @@
 # SBFF
-<div style="text-align:justify">
 The self-balanced force field (SBFF) propsed herin is the result of over 25 years of work and was developed by integrating 
 a set of potential energy functions in which each term in an intermolecular potential energy function is derived based on 
 experimental values, such as the dipole moments, lattice energy, proton transfer energy, and X-ray crystal structures.
-</div>
 </br>
 Cited on this reference:</br>
 Sung Bo Hwang, Kyoung Tai No, et. al., Development of a Self-Balanced Force Field for Biomolecule Simulation, in preparing
