@@ -11,5 +11,5 @@ Sung Bo Hwang, Kyoung Tai No, et. al., Development of a Self-Balanced Force Fiel
 2. Minimum space : 1GB
 3. Minimum memory space : 8GB
 
-# Install method
+# Install
 1. Download installer file in "Install" folder
