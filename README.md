@@ -1,5 +1,5 @@
 # SBFF
-The self-balanced force field (SBFF) propsed herin is the result of over 25 years of work and was developed by integrating 
+The Physical-based Molecular Force Field (PMFF) propsed herin is the result of over 25 years of work and was developed by integrating 
 a set of potential energy functions in which each term in an intermolecular potential energy function is derived based on 
 experimental values, such as the dipole moments, lattice energy, proton transfer energy, and X-ray crystal structures.
 </br></br>
