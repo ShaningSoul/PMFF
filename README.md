@@ -4,7 +4,7 @@ a set of potential energy functions in which each term in an intermolecular pote
 experimental values, such as the dipole moments, lattice energy, proton transfer energy, and X-ray crystal structures.
 </br></br>
 Cited on this reference:</br>
-Sung Bo Hwang, Kyoung Tai No, et. al., Development of a Self-Balanced Force Field for Biomolecule Simulation, in preparing
+Sung Bo Hwang, Kyoung Tai No, et. al., Development of a Physics-based Molecular Force Field for Biomolecule Simulation, in preparing
 
 # Requirement
 1. OS : Windows 10 / MacOS
